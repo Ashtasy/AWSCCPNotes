@@ -4,7 +4,7 @@ This is a concise notes compilation for AWS CLF-C02 Certified Cloud Practitioner
 
 
 
-My resources are Andrew Brown from Exampro and Tutorials Dojo
+Adapted : Andrew Brown from Exampro and Tutorials Dojo
 
 
 
